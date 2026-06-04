@@ -31,12 +31,18 @@ The app supports both recommendation paths:
 
 ---
 
+## Rendered Notebook
+
+**[View full analysis →](https://mohassan99.github.io/PSL-Project-4-Movie-Recommender/proj4MovieRecommender_MH.html)**
+
+---
+
 ## Repository Structure
 
 ```
 ├── proj4MovieRecommender.Rmd         # Base project notebook
 ├── proj4MovieRecommender_MH.Rmd     # Mohammad's extended analysis
-├── proj4MovieRecommender_MH.html    # Rendered HTML report
+├── proj4MovieRecommender_MH.html    # Rendered HTML notebook
 ├── movieRec/
 │   ├── ReadMe.txt                   # Shiny app instructions
 │   ├── app.R                        # Main Shiny application
@@ -62,12 +68,6 @@ The app supports both recommendation paths:
 - **UBCF:** Cosine similarity across the user-item rating matrix; top-N neighbors used to predict unseen ratings
 - **IBCF:** Item-item cosine similarity on normalized ratings; model-based approach for scalable inference
 - Validation: predictions matched reference implementation output with difference < 1e-6
-
----
-
-## Team Report
-
-No team report document was found in course archives. The rendered notebook (`proj4MovieRecommender_MH.html`) serves as the primary written deliverable.
 
 ---
 
