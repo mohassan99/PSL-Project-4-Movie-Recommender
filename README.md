@@ -1,6 +1,5 @@
 # PSL Project 4 — Movie Recommendation System
 
-**Course:** CS 598 Practical Statistical Learning, University of Illinois Urbana-Champaign  
 **Term:** Fall 2022  
 **Author:** Mohammad Hassanpour (`mohassan99`)
 
